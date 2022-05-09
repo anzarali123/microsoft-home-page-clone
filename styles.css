@@ -33,7 +33,7 @@ body {
   height: 100vh;
   background-color: #f2f2f2;
   opacity: 0.9;
-  /* transition: transform 1.5s ease-in-out; */
+  transition: transform 1s ease-in-out;
 }
 .toggle {
   transform: translateX(0px);
